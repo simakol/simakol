@@ -1,6 +1,5 @@
-# 💻 Front-end web developer 
+## Front-end web developer 
 
-## 📞 Contacts
 [aleksim.dev@gmail.com](mailto:aleksim.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/oleksiy-simak-a38693189) | [Codewars](https://www.codewars.com/users/Alex_Sim)
 
 Main skills: `HTML` `CSS` `JavaScript` `Node.js` `React` `Redux`
