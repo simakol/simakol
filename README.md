@@ -11,4 +11,5 @@
 ⚡ Fun fact: I am play flute
 
 <img align="left" alt="Alexey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simakol&show_icons=true&theme=dark">
-[![Weakly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=?username=simakol&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Wakatime week stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=simakol&theme=dark">
+
