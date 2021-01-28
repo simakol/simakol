@@ -12,7 +12,7 @@
 
 <img align="left" alt="Alexey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simakol&show_icons=true&theme=react">
 
-<img align="left" style="margin-top: 15px;" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simakol&layout=compact&theme=react">
+<img align="left" style="margin-top: 15px; width: 100%;" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simakol&layout=compact&theme=react">
 
 
 
