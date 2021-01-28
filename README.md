@@ -13,3 +13,5 @@
 <img align="left" alt="Alexey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simakol&show_icons=true&theme=react">
 <img align="left" alt="Wakatime week stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=simakol&theme=react">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simakol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
