@@ -8,7 +8,7 @@
 - Learning React Native 
 - Reading Grokking Algorithms
 
-⚡ Fun fact: I am play flute
+⚡ Fun fact: I play the flute
 
 <img align="left" alt="Alexey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simakol&show_icons=true&theme=react">
 <img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simakol&layout=compact&theme=react">
