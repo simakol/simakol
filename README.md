@@ -5,11 +5,11 @@
 
 [aleksim.dev@gmail.com](mailto:aleksim.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/oleksiy-simak-a38693189) | [Codewars](https://www.codewars.com/users/Alex_Sim) | [Skype](https://join.skype.com/invite/dMjGk7VtSvnf) | [Telegram](https://t.me/sempank) 
 
-**Main skills**: `HTML` `CSS` `JavaScript` `Node.js` `React` `Redux`
+**Main skills**: `HTML` `CSS` `JavaScript` `Node.js` `React.js` `Redux`
 
 **What am I doing these days?** 🤔
-- Learning React Native 
-- Reading Grokking Algorithms
+- Working on web application for amazon kindle ebooks
+- Helping people to learn web development
 
 ⚡ Fun fact: I play the flute
 
