@@ -1,4 +1,5 @@
 ### **Front-end web developer** 
+[Check out my web blog 👨‍💻](https://www.instagram.com/sempank.js/)
 
 [![Profile badge](https://www.codewars.com/users/Alex_Sim/badges/small)](https://www.codewars.com/users/Alex_Sim)
 [![wakatime](https://wakatime.com/badge/user/a6ed530d-9d46-43e8-89bd-8d5de88653a2.svg)](https://wakatime.com/@a6ed530d-9d46-43e8-89bd-8d5de88653a2)
